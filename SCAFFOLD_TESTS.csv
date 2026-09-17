@@ -1,0 +1,11 @@
+Test_ID,Extraction_ID,Scaffold_Type,Tensile_Strength_mpa,Porosity_Percentage,Degradation_Rate_Days,Biocompatibility_Score
+TST101,EXT001,3D Sponge,12.4,85,28,94.5
+TST102,EXT002,Hydrogel,4.2,92,14,96
+TST103,EXT003,Hydrogel,2.1,89.5,10,91.2
+TST104,EXT004,Electro Spun Mesh,18.6,78,45,98.1
+TST105,EXT005,3D Sponge,8.9,82.3,30,88.5
+TST106,EXT006,Electro Spun Mesh,15.1,80.5,40,95
+TST107,EXT007,3D Sponge,7.4,84,25,86.2
+TST108,EXT008,Hydrogel,5,91,18,93.8
+TST109,EXT009,Electro Spun Mesh,21.3,75.2,60,99
+TST110,EXT010,Hydrogel,3.5,94.1,12,92.4

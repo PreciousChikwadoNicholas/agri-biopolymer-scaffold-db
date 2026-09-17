@@ -1,0 +1,11 @@
+Extraction_ID,Waste_Source,Biopolymer_Type,Extraction_Method,Yield_Percentage,Purity_Percentage,Extraction_Date
+EXT001,Rice Husk,Cellulose,Acid Hydrolysis,68.5,92.1,8/10/2026
+EXT002,Banana Peel,Pectin,Enzymatic,45.2,88,8/12/2026
+EXT003,Shrimp Shell,Chitosan,Alkaline,72,95.4,8/15/2026
+EXT004,Corn Stalk,Lignin,Alkaline,58.1,86.7,8/18/2026
+EXT005,Sugarcane Bagasse,Cellulose,Acid Hydrolysis,64,91,8/20/2026
+EXT006,Coconut Husk,Lignin,Enzymatic,51.3,84.2,8/22/2026
+EXT007,Wheat Straw,Cellulose,Acid Hydrolysis,61.8,89.5,8/25/2026
+EXT008,Crab Shell,Chitosan,Alkaline,76.4,96.8,8/27/2026
+EXT009,Orange Peel,Pectin,Enzymatic,49,90.1,8/29/2026
+EXT010,Cassava Peel,Starch,Enzymatic,78.2,93.5,8/31/2026
